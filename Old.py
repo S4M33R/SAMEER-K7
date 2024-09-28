@@ -5,7 +5,7 @@
 import requests,bs4,json,os,sys,uuid,random,datetime,time,re
 import urllib3,rich,base64
 os.system('xdg-open https://chat.whatsapp.com/Ds77Q4By7NXDS7mppm3mZF')
-print('\n \033[1;92m[✓]\r\r\033[1;92m WELCOME. To Sameer  XD Hacker Tools....!')
+print('\n \033[1;92m[✓]\r\r\033[1;92m WELCOME. To SAMEER  XD Hacker Tools....!')
 from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
 from rich import pretty
